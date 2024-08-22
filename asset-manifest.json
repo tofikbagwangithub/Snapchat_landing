@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Snapchat_landing/static/css/main.785b3727.css",
+    "main.js": "/Snapchat_landing/static/js/main.12bdbe7d.js",
+    "index.html": "/Snapchat_landing/index.html",
+    "main.785b3727.css.map": "/Snapchat_landing/static/css/main.785b3727.css.map",
+    "main.12bdbe7d.js.map": "/Snapchat_landing/static/js/main.12bdbe7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785b3727.css",
+    "static/js/main.12bdbe7d.js"
+  ]
+}
